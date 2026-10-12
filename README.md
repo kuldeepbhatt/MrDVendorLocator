@@ -42,3 +42,6 @@ The first build resolves the official Google Maps and Google Places Swift packag
 6. Walk through the Domain, Data, Presentation, and App composition folders.
 
 See [SOLUTION.md](SOLUTION.md) for the architecture and trade-offs.
+
+## Video Recording :
+https://www.loom.com/share/dbf120b73a5a4fca91f434fc6116808b
