@@ -1,0 +1,27 @@
+[
+  {
+    "id": "ven-001",
+    "name": "Mr D Pizza - Cape Town CBD",
+    "address": "12 Loop St, Cape Town, 8000",
+    "coordinate": { "latitude": -33.918861, "longitude": 18.423300 },
+    "isFavorite": false,
+    "updatedAt": "2025-06-01T12:00:00Z"
+  },
+  {
+    "id": "ven-002",
+    "name": "Mr D Burger - Sea Point",
+    "address": "181 Main Rd, Sea Point, Cape Town, 8005",
+    "coordinate": { "latitude": -33.917800, "longitude": 18.386400 },
+    "isFavorite": true,
+    "updatedAt": "2025-06-02T09:30:00Z"
+  },
+  {
+    "id": "ven-003",
+    "name": "Mr D Kitchen - Woodstock",
+    "address": "66 Albert Rd, Woodstock, Cape Town, 7915",
+    "coordinate": { "latitude": -33.927800, "longitude": 18.447600 },
+    "isFavorite": false,
+    "updatedAt": "2025-06-03T16:45:00Z"
+  }
+]
+
